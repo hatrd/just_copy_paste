@@ -4,7 +4,7 @@
 ![Ctrl+Shift+V](img/v.gif)
 ![Ctrl+Shift+X](img/c.gif)
 ## 使用场景
-有的考试，就算带电脑考还不让复制粘贴，让人怀疑人生。遇到强制用~~小而美~~的内置浏览器的情况，还不好通过处理js绕过。直接模拟键盘输入，OCR复制的适用性更广。  
+有的考试，就算带电脑考还不让复制粘贴，让人怀疑人生。遇到强制用~~小而美~~的内置浏览器的情况，还不好通过处理 js 绕过。直接模拟键盘输入，OCR 复制的适用性更广。  
 
 除此之外也经常遇到其他不能复制粘贴的场景，现在一劳永逸了！  
 
@@ -13,10 +13,11 @@
 
 不想使用 ocr 功能，单独下载 just_copy_paste.py 运行即可。  
 
-完整地安装：
+带 ocr 的下载链接：
+[just_copy_paste_v0.1.0](https://github.com/hatrd/just_copy_paste/releases/tag/v0.1.0)
 
+配置环境：
 ```bash
-git clone https://github.com/hatrd/just_copy_paste
 pip install -r requirements.txt
 ```
 
